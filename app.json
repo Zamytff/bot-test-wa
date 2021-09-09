@@ -1,0 +1,7 @@
+{
+  "name": "exneph-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/azyansah",
+  "logo": "./lib/temp/??.png",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}

@@ -1,0 +1,14 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "bot", 
+	"zeksKey": "YOUR KEY",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 30,
+	"ownerList": ["6282xxxx@s.whatsapp.net", "6282xxxxxx@s.whatsapp.net"],
+
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://i.pinimg.com/736x/59/08/9d/59089dcdb81fa1a04e00071b305175bc.jpg",
+	"pack": "Exneph",
+	"author": "BOT"
+}
